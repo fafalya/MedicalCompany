@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eD4M4hrW5i87AgGhggQZhcskRUDCS0PWEkkR/QxQcE8=",
+  "Source": "MedicalCompany",
+  "BasePath": "_content/MedicalCompany",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
